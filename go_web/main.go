@@ -10,7 +10,7 @@ import (
 const url = "https://abhishek-portfolio-scarr33.vercel.app/"
 
 func main() {
-	fmt.Println("Go")
+	fmt.Println("Go1")
 
 	// Create a custom HTTP client that skips certificate verification
 	tr := &http.Transport{
