@@ -7,7 +7,7 @@ import (
 	"net/http"
 )
 
-const url = "https://codeavk.github.io/portfoliobnb.git.io-main/"
+const url = "https://abhishek-portfolio-scarr33.vercel.app/"
 
 func main() {
 	fmt.Println("Go")
