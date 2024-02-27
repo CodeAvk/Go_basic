@@ -27,7 +27,9 @@ func checkError(err error) {
 		panic(err)
 	}
 }
-
+func abc() {
+	fmt.Println("ntg")
+}
 func readFile(file string) {
 	bytedata, err := ioutil.ReadFile(file)
 	checkError(err)
