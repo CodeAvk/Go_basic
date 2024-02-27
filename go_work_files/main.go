@@ -28,7 +28,7 @@ func checkError(err error) {
 	}
 }
 func abc() {
-	fmt.Println("ntg")
+	fmt.Println("ntg1")
 }
 func readFile(file string) {
 	bytedata, err := ioutil.ReadFile(file)
